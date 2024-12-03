@@ -1,0 +1,9 @@
+- Bubble Sort
+- Selection Sort
+- Heap Sort
+- Insertion Sort
+- Counting Sort 
+- Merge Sort
+- Quicksort
+- Bucket Sort
+- Cyclic Sort 
