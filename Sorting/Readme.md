@@ -7,3 +7,4 @@
 - Quicksort
 - Bucket Sort
 - Cyclic Sort 
+- Radix Sort 
